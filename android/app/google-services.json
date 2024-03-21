@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "87189221666",
+    "project_id": "mendiorder-30c3a",
+    "storage_bucket": "mendiorder-30c3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87189221666:android:38e3bc0a954eeef67cf57b",
+        "android_client_info": {
+          "package_name": "com.example.mehndiorderwithdetabase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPEuAAKoROEQwpxYQRtWWTnyvf_6FB_yw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
